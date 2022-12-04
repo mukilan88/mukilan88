@@ -2,9 +2,19 @@
 
 <h1 align="center">Hi 👋, I'm Mukilan Selvaraj</h1>
 <h3 align="center">A passionate (mern)-full stack web developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/20ba1b87416f6e74a4debebec7a695504eec286a3a0a082f8cc6063ab1353dbe/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a4647443642557a7a5a7331564a4c75592e676966">
+<img
+  align="right"
+  alt="coding"
+  width="400"
+  src="https://camo.githubusercontent.com/20ba1b87416f6e74a4debebec7a695504eec286a3a0a082f8cc6063ab1353dbe/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a4647443642557a7a5a7331564a4c75592e676966"
+/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mukilan88&label=Profile%20views&color=0e75b6&style=flat" alt="mukilan88" /> </p>
+<p align="left">
+  <img
+    src="https://komarev.com/ghpvc/?username=mukilan88&label=Profile%20views&color=0e75b6&style=flat"
+    alt="mukilan88"
+  />
+</p>
 
 - 📫 How to reach me **tn.mukilan88@gmail.com**
 
@@ -220,8 +230,26 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mukilan88&show_icons=true&locale=en&layout=compact" alt="mukilan88" /></p>
+<p>
+  <img
+    align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=mukilan88&show_icons=true&locale=en&layout=compact"
+    alt="mukilan88"
+  />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mukilan88&show_icons=true&locale=en" alt="mukilan88" /></p>
+<p>
+  &nbsp;<img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api?username=mukilan88&show_icons=true&locale=en"
+    alt="mukilan88"
+  />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mukilan88&" alt="mukilan88" /></p>
+<p>
+  <img
+    align="center"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=mukilan88&"
+    alt="mukilan88"
+  />
+</p>
