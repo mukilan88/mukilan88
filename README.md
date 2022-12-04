@@ -8,7 +8,6 @@
   width="400"
   src="https://camo.githubusercontent.com/20ba1b87416f6e74a4debebec7a695504eec286a3a0a082f8cc6063ab1353dbe/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a4647443642557a7a5a7331564a4c75592e676966"
 />
-
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=mukilan88&label=Profile%20views&color=0e75b6&style=flat"
@@ -19,6 +18,42 @@
 - 📫 How to reach me **tn.mukilan88@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/mukilan88" target="blank"
+    ><img
+      align="center"
+      src="https://cdn-icons-png.flaticon.com/512/174/174857.png"
+      alt="mukilan88"
+      height="40"
+      width="40"
+  /></a>
+  <a href="https://fb.com/mukilan88" target="blank"
+    ><img
+      align="center"
+      src="https://cdn-icons-png.flaticon.com/512/174/174848.png"
+      alt="mukilan88"
+      height="40"
+      width="40"
+  /></a>
+  <a href="https://instagram.com/mukilan88" target="blank"
+    ><img
+      align="center"
+      src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"
+      alt="mukilan88"
+      height="40"
+      width="40"
+  /></a>
+  <a href="https://www.youtube.com/c/rmviews" target="blank"
+    ><img
+      align="center"
+      src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png"
+      alt="rmviews"
+      height="50"
+      width="50"
+  /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img
