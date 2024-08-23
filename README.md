@@ -1,10 +1,10 @@
 ![MasterHead](https://www.synergisticit.com/wp-content/uploads/2021/10/Jacksonville-Banner-mern-stack-training.jpg)
 
 <h1 align="center">Hi 👋, I'm Mukilan Selvaraj</h1>
-<h3 align="center">A passionate (mern)-full stack web developer from India</h3>
-
+<h3 align="center">A passionate (mern)-full stack web developer now transforming into java full stack from India</h3>
+<div align="center">
 ![Java-Full-Stack-Developer-specialization-2-](https://github.com/user-attachments/assets/0b4ffbe4-5ce3-4452-adaf-8dde810099e6)
-
+</div>
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=mukilan88&label=Profile%20views&color=0e75b6&style=flat"
