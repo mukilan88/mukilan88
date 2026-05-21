@@ -54,7 +54,7 @@
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
       alt="c"
       width="40"
       height="40"
@@ -62,7 +62,7 @@
   </a>
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
       alt="cplusplus"
       width="40"
       height="40"
@@ -70,7 +70,7 @@
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/1200px-Python_logo_and_wordmark.svg.png"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
       alt="python"
       width="80"
       height="40"
@@ -86,7 +86,7 @@
   </a>
   <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
     <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Swift_logo.svg/1200px-Swift_logo.svg.png"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg"
       alt="swift"
       width="80"
       height="40"
@@ -94,7 +94,7 @@
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
       alt="html5"
       width="40"
       height="40"
@@ -106,7 +106,7 @@
     rel="noreferrer"
   >
     <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
       alt="css3"
       width="28"
       height="40"
@@ -126,7 +126,7 @@
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
       alt="bootstrap"
       width="50"
       height="40"
@@ -142,7 +142,7 @@
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
       alt="react"
       width="40"
       height="40"
@@ -158,7 +158,7 @@
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
       alt="nodejs"
       width="50"
       height="40"
@@ -182,7 +182,7 @@
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
       alt="mysql"
       width="80"
       height="40"
@@ -190,7 +190,7 @@
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"
       alt="mongodb"
       width="90"
       height="40"
@@ -214,7 +214,7 @@
   </a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
     <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg"
       alt="photoshop"
       width="40"
       height="40"
@@ -238,7 +238,7 @@
     rel="noreferrer"
   >
     <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg"
       alt="xd"
       width="40"
       height="40"
@@ -254,7 +254,7 @@
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Kali_Linux_2.0_wordmark.svg/1200px-Kali_Linux_2.0_wordmark.svg.png"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
       alt="linux"
       width="80"
       height="40"
@@ -265,7 +265,7 @@
 <p>
   <img
     align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=mukilan88&show_icons=true&locale=en&layout=compact"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mukilan88&theme=github"
     alt="mukilan88"
   />
 </p>
@@ -273,7 +273,7 @@
 <p>
   &nbsp;<img
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=mukilan88&show_icons=true&locale=en"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mukilan88&theme=github"
     alt="mukilan88"
   />
 </p>
